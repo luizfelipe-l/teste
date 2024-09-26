@@ -1,0 +1,30 @@
+@charset "UTF-8";
+h1{
+    font-family: "Montserrat", sans-serif;
+    color: rgb(245, 245, 92);
+}
+h2{
+    font-family: "Montserrat", sans-serif;
+    color: rgb(245, 245, 92);
+}
+h3{
+    font-family: "Montserrat", sans-serif;
+    color: rgb(245, 245, 92);
+}
+p{
+    font-family: "Montserrat", sans-serif;
+    
+}
+li{
+    font-family: "Montserrat", sans-serif;
+    color: white;
+}
+body{
+
+    background-image: linear-gradient(to right, rgb(231, 145, 63), rgb(243, 46, 46));
+}
+img{
+    width: 300px;
+    height: 200px;
+    border-radius: 10px;
+}
